@@ -16,5 +16,6 @@ abstract final class StringsManager{
   static const String sbhaText="Praise the name of your Lord, the Most High";
   static const String radioHeader="Holy Quran Radio";
   static const String radioText="You can listen to the Holy Quran Radio through the application for free and easily";
+  static const String sbhaheadText="سَبِّحِ اسْمَ رَبِّكَ الأعلى ";
 
 }
