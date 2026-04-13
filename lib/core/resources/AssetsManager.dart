@@ -1,5 +1,5 @@
 abstract final class AssetsManager{
-  static const String islamiHeader = "assets/images/islami_header.png";
+  static const String islamiHeader = "assets/images/islamWay_logo.png";
   static const String quranTab = "assets/images/quran.svg";
   static const String quranSelectedTab = "assets/images/quran_selected.svg";
   static const String hadethTab = "assets/images/hadeth.svg";

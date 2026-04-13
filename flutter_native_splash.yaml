@@ -23,5 +23,5 @@ flutter_native_splash:
 
     # branding:
     # The branding image dimensions must be 800x320 px.
-    branding: assets/images/splash_branding.png
+    branding: assets/images/fares.png
     #branding_dark: assets/dart_dark.png

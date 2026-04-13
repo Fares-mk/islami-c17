@@ -22,7 +22,7 @@ class _HadethTabState extends State<HadethTab> {
       width: double.infinity,
       alignment: Alignment.topCenter,
       decoration: BoxDecoration(
-        color: ColorsManager.secondaryColor,
+        color: ColorsManager.hadethColor,
         image: DecorationImage(
           fit: BoxFit.fitWidth,
           image: AssetImage(AssetsManager.hadethBack),

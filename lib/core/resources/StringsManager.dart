@@ -7,7 +7,7 @@ abstract final class StringsManager{
   static const String radioTab = "Radio";
   static const String timeTab = "Time";
   static const String suraName = "Sura Name";
-  static const String WelcomeHeaderApp="Welcome To Islmi App";
+  static const String WelcomeHeaderApp="Welcome To IslamWay App";
   static const String Welcome="Welcome To Islami";
   static const String WelcomeText="We Are Very Excited To Have You In Our Community";
   static const String readHeader="Reading the Quran";
